@@ -1,0 +1,122 @@
+{
+    "name": "Devin Halladay",
+    "location": {
+        "city": "Strongsville",
+        "state": "Ohio",
+        "country": "US"
+    },
+    "presence": {
+        "web": [
+            "http://deivnhalladay.com",
+            "http://dribbble.com/devinhalladay"
+        ],
+        "twitter": "devinhalladay",
+        "github": "devinhalladay",
+        "skype": "devinhalladay",
+        "facebook": "nivedred"
+    },
+    "occupation": {
+        "company": "The Guild",
+        "title": "Founder & Creative Director"
+    },
+    "happiness": {
+        "occupational": [
+            {
+                "type": "environment",
+                "name": "remote-friendly",
+                "value": 10
+            },
+            {
+                "type": "environment",
+                "name": "trusts employees",
+                "value": 10
+            },
+            {
+                "type": "environment",
+                "name": "strong leadership",
+                "value": 10
+            },
+            {
+                "type": "environment",
+                "name": "schedule flexibility",
+                "value": 7
+            },
+            {
+                "type": "environment",
+                "name": "invasive contract",
+                "value": -10
+            },
+            {
+                "type": "environment",
+                "name": "extensive titles",
+                "value": -10
+            },
+            {
+                "type": "environment",
+                "name": "rigid roles",
+                "value": -10
+            },
+            {
+                "type": "activity",
+                "name": "problem solving",
+                "value": 9
+            },
+            {
+                "type": "activity",
+                "name": "evangelism/speaking",
+                "value": 8
+            },
+            {
+                "type": "activity",
+                "name": "shipping code",
+                "value": 8
+            },
+            {
+                "type": "activity",
+                "name": "shipping design",
+                "value": 9
+            },
+            {
+                "type": "activity",
+                "name": "writing",
+                "value": 10
+            },
+            {
+                "type": "activity",
+                "name": "leadership",
+                "value": 9
+            },
+            {
+                "type": "activity",
+                "name": "teaching",
+                "value": 10
+            },
+            {
+                "type": "activity",
+                "name": "research",
+                "value": 7
+            },
+            {
+                "type": "activity",
+                "name": "meetings",
+                "value": -7
+            },
+            {
+                "type": "activity",
+                "name": "management",
+                "value": -8
+            },
+            {
+                "type": "activity",
+                "name": "on-call",
+                "value": -9
+            },
+            {
+                "type": "activity",
+                "name": "busy work",
+                "value": -10
+            }
+        ],
+        "personal": []
+    }
+}
