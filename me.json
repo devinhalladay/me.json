@@ -41,7 +41,7 @@
             {
                 "type": "environment",
                 "name": "schedule flexibility",
-                "value": 7
+                "value": 10
             },
             {
                 "type": "environment",
@@ -61,7 +61,7 @@
             {
                 "type": "activity",
                 "name": "problem solving",
-                "value": 9
+                "value": 10
             },
             {
                 "type": "activity",
@@ -71,17 +71,17 @@
             {
                 "type": "activity",
                 "name": "shipping code",
-                "value": 8
+                "value": 10
             },
             {
                 "type": "activity",
                 "name": "shipping design",
-                "value": 9
+                "value": 10
             },
             {
                 "type": "activity",
                 "name": "writing",
-                "value": 10
+                "value": 12
             },
             {
                 "type": "activity",
@@ -91,7 +91,7 @@
             {
                 "type": "activity",
                 "name": "teaching",
-                "value": 10
+                "value": 8
             },
             {
                 "type": "activity",
@@ -101,12 +101,12 @@
             {
                 "type": "activity",
                 "name": "meetings",
-                "value": -7
+                "value": 8
             },
             {
                 "type": "activity",
                 "name": "management",
-                "value": -8
+                "value": 5
             },
             {
                 "type": "activity",
@@ -116,7 +116,7 @@
             {
                 "type": "activity",
                 "name": "busy work",
-                "value": -10
+                "value": -1000
             }
         ],
         "personal": []
