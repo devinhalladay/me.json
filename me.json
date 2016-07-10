@@ -7,17 +7,19 @@
     },
     "presence": {
         "web": [
-            "http://deivnhalladay.com",
-            "http://dribbble.com/devinhalladay"
+            "http://devinhalladay.com",
+            "http://dribbble.com/devinhalladay",
+            "http://github.com/devinhalladay",
+            "http://behance.com/devinhalladay"
         ],
         "twitter": "devinhalladay",
         "github": "devinhalladay",
         "skype": "devinhalladay",
-        "facebook": "nivedred"
+        "facebook": "thehalladay"
     },
     "occupation": {
-        "company": "The Guild",
-        "title": "Founder & Creative Director"
+        "company": "Freelance",
+        "title": "Multidisciplinary Designer, Writer, Artist, and Developer"
     },
     "happiness": {
         "occupational": [
